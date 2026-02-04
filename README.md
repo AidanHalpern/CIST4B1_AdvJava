@@ -9,9 +9,9 @@ I currently know Java and have a little bit of experience with C.  In the future
 2. Improve my coding logic
 3. Obtain a good grade
 ## In-Class Java Coding Warm Up file
-[Uppublic class WarmUp {
-    public static void main(String[] args) {
+
+    public class WarmUp {
+        public static void main(String[] args){
         System.out.println("The original file was overwritten, so this is now its replacement.");
+        }
     }
-}
-loading WarmUp.java…]()
