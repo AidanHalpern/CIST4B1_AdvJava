@@ -3,7 +3,7 @@ A repository to document my Java learning journey
 
 ## About Me
 Hello, I'm Aidan Halpern. I'm currently a college student majoring in CS.
-I currently know Java and have a little bit of experience with C.  In the future, I wish to specialize in cybersecurity.
+I currently have experience with Java and have a little bit of experience with C.  In the future, I wish to specialize in cybersecurity.
 ## Goals for This Course
 1. Improve my Java skills
 2. Improve my coding logic
