@@ -1,0 +1,15 @@
+apple
+zebra
+pear
+zebra
+red
+pink
+blue
+yellow
+black
+whale
+bear
+bee
+mouse
+key
+lock

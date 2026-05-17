@@ -1,0 +1,22 @@
+Id, specie, location, outOfSeason, bag limit, minSize
+B0, null, Beach, null, null, null
+K1, Kelp, Soquel Cove, null, null, null
+K2, Kelp, Santa Cruz Cliffs, null, null, null
+SC1, Sand Crab, Manresa Beach, null, null, null
+SP1, Surf Perch, Sea Bright Beach, null, 10.0, null
+SSB1, Striped Bass, Manresa Beach, spring, 2.0, 18.0
+SAR1, Sardine,  Cement Ship, null, null, null
+MACK1, Mackerel, Santa Cruz Pier, null, null, null
+ANC1, Anchovies, Capitola Pier, null, null, null
+SD1, Sand Dab, Soquel Cove, null, null, null
+CH1, California Halibut, Soquel Cove, winter, 2.0, 22.0
+PH1, Pacific Halibut, Soquel Cove, winter, 1.0, null
+DC1, Dungeness Crab, Soquel Cove, summer, 10.0, 5.75
+FL1, Flounder, Soquel Cove, null, null, null
+SL1, Sole, Soquel Cove, null, 10.0, null
+YFT1, Yellow Fin Tuna, Soquel Cove, null, 2.0, null
+BFT1, Blue Fin Tuna, Monterey Bay, null, 10.0, null
+RF1, Roch Fish, Rocky Patch One, fall, 10.0, null
+RC1, Rock Crab, Rocky Patch Two, summer, 35.0, 4.0
+LC1, Ling Cod, Rocky Patch One, fall, 2.0, 18.0
+SM1, Salmon, Soquel Hole, null, 2.0, 24.0
